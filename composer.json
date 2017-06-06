@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/shareonline-php-client",
     "description": "A ShareOnline Client for PHP",
-    "keywords": ["api", "faustbrian", "faustbrian-share-online", "share-online", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "share-online.biz", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",

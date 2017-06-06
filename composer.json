@@ -1,0 +1,41 @@
+{
+    "name": "faustbrian/shareonline-php-client",
+    "description": "A ShareOnline Client for PHP",
+    "keywords": ["api", "faustbrian", "faustbrian-share-online", "share-online", "Brian Faust", "faustbrian"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Brian Faust",
+        "email": "hello@brianfaust.de",
+        "homepage": "https://brianfaust.de"
+    }],
+    "require": {
+        "php": "^7.0",
+        "faustbrian/unified": "dev-master"
+    },
+    "require-dev": {
+        "graham-campbell/testbench": "^3.3",
+        "mockery/mockery": "^0.9",
+        "phpunit/phpunit": "^6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "BrianFaust\\ShareOnline\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BrianFaust\\Tests\\ShareOnline\\": "tests"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

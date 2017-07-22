@@ -14,6 +14,8 @@
          stopOnError="false"
          stopOnFailure="false"
          verbose="true"
+         printerFile="vendor/coderabbi/phpumoji/src/EmojiPrinter.php"
+         printerClass="Coderabbi\Phpumoji\EmojiPrinter"
 >
     <testsuites>
         <testsuite name="ShareOnline PHP Client Test Suite">

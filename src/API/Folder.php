@@ -11,8 +11,8 @@
 
 namespace BrianFaust\ShareOnlineBiz\API;
 
-use BrianFaust\Http\HttpResponse;
 use GuzzleHttp\Post\PostFile;
+use BrianFaust\Http\HttpResponse;
 
 class Folder extends AbstractAPI
 {

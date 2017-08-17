@@ -13,7 +13,6 @@
         "faustbrian/http": "^1.0@dev"
     },
     "require-dev": {
-        "coderabbi/phpumoji": "^0.7.0@beta",
         "mockery/mockery": "^0.9.9",
         "phpunit/phpunit": "^6.2"
     },

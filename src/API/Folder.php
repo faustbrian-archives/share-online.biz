@@ -13,8 +13,8 @@ declare(strict_types=1);
 
 namespace BrianFaust\ShareOnlineBiz\API;
 
-use GuzzleHttp\Post\PostFile;
 use BrianFaust\Http\HttpResponse;
+use GuzzleHttp\Post\PostFile;
 
 class Folder extends AbstractAPI
 {

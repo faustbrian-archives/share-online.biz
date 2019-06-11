@@ -13,8 +13,8 @@ declare(strict_types=1);
 
 namespace Plients\ShareOnlineBiz\API;
 
-use Plients\Http\HttpResponse;
 use GuzzleHttp\Post\PostFile;
+use Plients\Http\HttpResponse;
 
 class Folder extends AbstractAPI
 {
